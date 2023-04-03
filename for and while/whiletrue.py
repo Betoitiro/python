@@ -1,6 +1,8 @@
 #usando while como condição verdadeira
 #vai ler uma lista  somar com o numero digitado pelo usuario
 
+#ese prorama vai pegar os numeros do usuario digitar no loop while e somalos com a variavel s/
+
 num =[] #comando que vai listar os valores digitados em n
 s = 2 #soma feita no final
 
