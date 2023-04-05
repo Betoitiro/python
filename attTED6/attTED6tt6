@@ -1,0 +1,15 @@
+c = ['allyson', 'carlos', 'joão','amanda', 'joana']
+
+cv = "opa, tudo bom? {} to te convidando para uma festa que vai rolar sexta, sabado e domingo!"
+
+for c in cv:
+    print(cv.format(c))
+
+    nv = ['carlos', 'amanda']
+    print("os convidados {} não poderão comparecer a festa".format(n))
+
+    c.remove("carlos")
+    c.remove("amanda")
+
+for c in cv:
+    print(cv.format(c))

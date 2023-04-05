@@ -5,6 +5,6 @@ while n <= 2000:
         print(n)
     n +=1
 
-fpr n in range (1000, 2001):
+for n in range(1001,2002):
     if n % 11 ==5:
-    print(num)
+        print(n)
