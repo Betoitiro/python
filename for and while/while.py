@@ -8,6 +8,6 @@ while c <= numero:
     fatorial *=c
     c +=1 #calcular o produto
 
-    break
+    
 
 print(f"O fatorial {numero} é {fatorial}")
