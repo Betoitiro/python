@@ -1,10 +1,15 @@
+from collections import UserString
+
+
 u = []
 
 while True:
     op = str(input("Deseja iniciar um novo usuario? (y/n)"))
 
     if op =="n":
+
         break
+
     elif op == "s":
         nome = input("digite o nome de usuario que voce deseja: ")
         id = input("digite a sua idade: ")
@@ -12,10 +17,10 @@ while True:
 
         user = {"nome": nome, "idade" :id, "email" : em}
 
-        users.append(user)
+        USUARIO.append(user)
 
     else:
         print("acesso negado")
 
-for user in users:
-    print("nome: {}, idade {}, email {}". format(nome, id,em))
+for user in UserString:
+    print("nome: {}, idade: {}, email: {}".format(user["nome"], user["idade"], user["email"]))
