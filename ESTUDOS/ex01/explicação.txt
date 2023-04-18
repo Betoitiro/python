@@ -1,0 +1,8 @@
+Documentação do programa:
+
+primeiro criasse um dicionario, com os nomes e os preços (seguindo a analogia do progrma), em seguida colocasse um loop for com uma variavel a qual sera recebida os valores da variavel n, e usa o comando (n.keys()), para pegar a parte dos preços.
+
+for nome in n.keys():
+	print({nome} = {n[nome}
+
+o print n[nome], representa a parte da chave, aonde se encontra os preços, ja que se enconta na parte das chaves.
