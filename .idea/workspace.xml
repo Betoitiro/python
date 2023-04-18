@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9dc6f8b-c7ba-423f-be92-2594147f87f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AULA4/ex08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AULA4/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 5/DICIONARIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 5/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 5/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 5/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 5/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 5/lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 5/tupla.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/attTED6/attTEDpt7.py" beforeDir="false" afterPath="$PROJECT_DIR$/attTED6/attTEDpt7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 2/AULA4/ex01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 2/AULA4/ex02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 2/AULA4/ex03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 2/AULA4/ex04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 2/AULA4/ex05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 2/AULA4/ex06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 2/AULA4/ex07.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,56 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+  <component name="RunManager" selected="Python.ex03">
+    <configuration name="ex02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AULA 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AULA 5/ex02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AULA 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AULA 5/ex03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex03" />
+        <item itemvalue="Python.ex02" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
