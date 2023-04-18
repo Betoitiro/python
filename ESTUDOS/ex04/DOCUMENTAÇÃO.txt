@@ -1,0 +1,18 @@
+DOCUMENTAÇÃO:
+
+a lista representa o estoque de um mercado, e quer saber o valor desse estoque.
+
+> em primeiro plano, realizasse a criação de uma lista, com os nomes, preços e quantidade.
+
+estoque = [{'nome':x, 'preço' : y, 'quantidade':z}]
+
+logo em seguida se cria um loop for, baseado na lista  (estoque).
+
+for pr in estoque:
+	v_p = pr['preço'] * pr['quantidade']	(nesse caso ira pegar o preço e multiplicar pela quantidade)
+	total +=v_p
+
+
+No final, da o print do total
+
+print(total)

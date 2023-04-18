@@ -1,0 +1,58 @@
+DOCUMENTAÇÃO:
+REALIZANDO OPERAÇÃO DENTRO DE TUPLAS
+USANDO O DEF
+
+
+
+então, primeiro teremos uma tupla, que sera list = [x] 
+
+ligaremos essa lista ao def
+
+def th(tupla):
+	total = 0
+
+o th tem a função de expressar a funcionalidade do def, ou seja, podemos atribuir qualquer valor aonde se encontra o th na celular do def.
+
+depois vamos criar um loop for, que correspondera ao inicio e o fim da lista
+
+
+def th(tupla)
+		total = 0
+
+		for start, end in tupla:
+		total += end - start
+
+	return total
+
+essa sera a configuração do loop for 
+
+logo em seguida damos inicio a tupla, que nesse caso podera ser colcoada tanto no começo como no final do programa.
+tupla= [x]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
