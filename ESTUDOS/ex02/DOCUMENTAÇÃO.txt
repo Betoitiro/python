@@ -1,0 +1,24 @@
+DOCUMENTAÇÃO:
+
+no exercicio se cria uma lista com os valores.
+em seguida criasse duas variaveis para serem ultilizadas no loop for, uma para os numeros pares e uma para os numeros impares.
+coloca as duas variaveis criadas igual a 0.
+
+em seguida parte para o loop for:
+criasse uma outra variavel para ser usada pelo loop, que usara os elementos da lista.
+depois criasse duas condições, uma para os numeros pares e outra para os numeros impares.
+
+if num %2 == 0:
+	sp +=1 (sp  corresponde a variavel dos numeros pares)
+
+elif num %2 !=0:
+	si +=1 (si corresponde a variavel dos impares)
+
+dessa forma vc achara o total dos numeros pares e dos numeros impares separadamente.
+
+>caso queira achar a totalidade deles, criasse uma variavel some (s):
+	s = sp + si
+>e evetualmente queira a media:
+	m = int(s/2)
+
+e assim esta realzado o programa!
