@@ -8,3 +8,5 @@ lista = {
 with open('arquivo.json',  'w') as arquivo:
     json.dump(lista, arquivo)
     meu_json = json.dumps(lista)
+
+print(lista['frutas']['uva'])

@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9dc6f8b-c7ba-423f-be92-2594147f87f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula 11/Aula 11 pt 1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 11/Moby-Dick.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 11/Moby-Dick.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/exemplo 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/exemplo 03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/itiro/Documents/python"
   }
-}</component>
-  <component name="RunManager" selected="Python.Aula 11 pt 1">
+}]]></component>
+  <component name="RunManager" selected="Python.exemplo 03">
     <configuration name="Aula 11 pt 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exemplo 03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AULA 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AULA 5/ex03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject/exemplo 03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exemplo 03" />
         <item itemvalue="Python.Aula 11 pt 1" />
         <item itemvalue="Python.aula1_1" />
         <item itemvalue="Python.rev_dicio" />
         <item itemvalue="Python.rev" />
-        <item itemvalue="Python.ex03" />
       </list>
     </recent_temporary>
   </component>
